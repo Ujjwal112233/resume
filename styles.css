@@ -1,0 +1,27 @@
+body{
+  background-color: #ecfbfc;
+}
+
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 2px;
+}
+
+h1{
+  color: #00bcd4;
+}
+
+h2{
+  color: #00bcd4;
+}
+
+a:hover{
+  background-color: blue;
+}
+
+
+/*********************class*******/
+.blackstrip{
+  background-color: black;
+}
